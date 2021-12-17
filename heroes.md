@@ -5,4 +5,6 @@ Lista de héroes:
 + La bruja escarlata
 + Capitán América
 + Hulk
++ Linterna Verde
++ Robin
 
